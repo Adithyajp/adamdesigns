@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/adamdesigns/static/css/main.cf27da72.chunk.css",
+    "main.js": "/adamdesigns/static/js/main.86fb07f9.chunk.js",
+    "main.js.map": "/adamdesigns/static/js/main.86fb07f9.chunk.js.map",
+    "runtime-main.js": "/adamdesigns/static/js/runtime-main.4d2bc5f2.js",
+    "runtime-main.js.map": "/adamdesigns/static/js/runtime-main.4d2bc5f2.js.map",
+    "static/js/2.1776cfae.chunk.js": "/adamdesigns/static/js/2.1776cfae.chunk.js",
+    "static/js/2.1776cfae.chunk.js.map": "/adamdesigns/static/js/2.1776cfae.chunk.js.map",
+    "index.html": "/adamdesigns/index.html",
+    "static/css/main.cf27da72.chunk.css.map": "/adamdesigns/static/css/main.cf27da72.chunk.css.map",
+    "static/js/2.1776cfae.chunk.js.LICENSE.txt": "/adamdesigns/static/js/2.1776cfae.chunk.js.LICENSE.txt",
+    "static/media/BEDROOM 2.3543a3f5.jpg": "/adamdesigns/static/media/BEDROOM 2.3543a3f5.jpg",
+    "static/media/KITCHEN VIEW 02.0c581d8c.jpg": "/adamdesigns/static/media/KITCHEN VIEW 02.0c581d8c.jpg",
+    "static/media/familyroom1.2dad41fb.jpg": "/adamdesigns/static/media/familyroom1.2dad41fb.jpg",
+    "static/media/living room.33a498bc.jpg": "/adamdesigns/static/media/living room.33a498bc.jpg",
+    "static/media/logo.2b2f2a6a.png": "/adamdesigns/static/media/logo.2b2f2a6a.png",
+    "static/media/logo1.942186fe.png": "/adamdesigns/static/media/logo1.942186fe.png",
+    "static/media/logo3.b576a0f0.png": "/adamdesigns/static/media/logo3.b576a0f0.png",
+    "static/media/mbr 2 FINL 2.28780343.jpg": "/adamdesigns/static/media/mbr 2 FINL 2.28780343.jpg",
+    "static/media/svg-1.b793f17f.svg": "/adamdesigns/static/media/svg-1.b793f17f.svg",
+    "static/media/svg-2.7c84fc4c.svg": "/adamdesigns/static/media/svg-2.7c84fc4c.svg",
+    "static/media/svg-3.a3b02297.svg": "/adamdesigns/static/media/svg-3.a3b02297.svg",
+    "static/media/svg-4.7d5f41e1.svg": "/adamdesigns/static/media/svg-4.7d5f41e1.svg",
+    "static/media/video.62ab5130.mp4": "/adamdesigns/static/media/video.62ab5130.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d2bc5f2.js",
+    "static/js/2.1776cfae.chunk.js",
+    "static/css/main.cf27da72.chunk.css",
+    "static/js/main.86fb07f9.chunk.js"
+  ]
+}
