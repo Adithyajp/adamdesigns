@@ -4,9 +4,9 @@ import App from './App';
 
 
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
-  </React.StrictMode>,
+  </BrowserRouter>
   document.getElementById('root')
 );
 
