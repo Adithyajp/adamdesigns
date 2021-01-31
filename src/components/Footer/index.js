@@ -44,8 +44,8 @@ const Footer = () => {
                 </FooterLinksContainer>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to='/'>Adam Designs</SocialLogo>
-                            <WebsiteRights>adam designs © {new Date().getFullYear()}
+                        <SocialLogo to='/'>Adam Associates</SocialLogo>
+                            <WebsiteRights>adam associates © {new Date().getFullYear()}
                              .All rights reserved.</WebsiteRights>
                             <SocialIcons>
                                 <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
